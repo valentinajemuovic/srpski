@@ -1,13 +1,5 @@
 # Српски језик
 
-## Ћирилица
-
-`1234567890'+
-~!"#$%&/()=?*
-љњертзуиопшђ
-асдфгхјклчћж
-ѕџцвбнм,.-
-
 ## Падежи
 
 1. Номинатив (ном.)
@@ -24,14 +16,16 @@
 | Датив | Коме? Чему? |
 | Акузатив | Кога? Шта? Куда? |
 | Вокатив | Хеј! |
-| Инструментал | С ким? Са ким? Чим? С чим? Чиме? |
-| Локатив | Где? О коме? О чему? На чему? |
+| Инструментал | С ким? Са ким? С киме? Чим? С чим? Чиме? |
+| Локатив | Где? О коме? О чему? На коме? На чему? По коме? По чему? У коме? У чему? |
 
 ### Референце
 
 - [Опште образовање - Падежи](https://www.opsteobrazovanje.in.rs/srpski-jezik/gramatika/padezi/)
 - [Средње школе - Едукација - Падежи](https://srednjeskole.edukacija.rs/srpski-jezik/gramatika/padezi-u-srpskom-jeziku)
-- [Савремена основна школа и гимназија - - Падежи](https://www.savremena-osnovna.edu.rs/kako-najlakse-nauciti-padeze/)
+- [Савремена основна школа и гимназија - Падежи](https://www.savremena-osnovna.edu.rs/kako-najlakse-nauciti-padeze/)
+- [Боске Крагујевац - падежи](https://www.boske.rs/stranice/padezi.html)
+
 
 
 
@@ -42,5 +36,12 @@
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links 
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting
+
+
+`1234567890'+
+~!"#$%&/()=?*
+љњертзуиопшђ
+асдфгхјклчћж
+ѕџцвбнм,.-
 
 -->
