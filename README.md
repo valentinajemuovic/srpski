@@ -70,22 +70,16 @@
 | уз           |     |      | ✔️  |      |        |
 | с, са        |     |      |     | ✔️   |        |
 | по           |     |      |     |      | ✔️    |
-| ___          |     |      |     |      |        |
-| ___          |     |      |     |      |        |
-| ___          |     |      |     |      |        |
-| ___          |     |      |     |      |        |
-| ___          |     |      |     |      |        |
-| ___          |     |      |     |      |        |
-| ___          |     |      |     |      |        |
-| ___          |     |      |     |      |        |
+| при          |     |      |     |      | ✔️    |
+| према        |     |      |     |      | ✔️    |
 
 
 
 
 ### Референце
 
-- [Опште образовање - Падежи](https://www.opsteobrazovanje.in.rs/srpski-jezik/gramatika/padezi/)
 - [Средње школе - Едукација - Падежи](https://srednjeskole.edukacija.rs/srpski-jezik/gramatika/padezi-u-srpskom-jeziku)
+- [Опште образовање - Падежи](https://www.opsteobrazovanje.in.rs/srpski-jezik/gramatika/padezi/)
 - [Савремена основна школа и гимназија - Падежи](https://www.savremena-osnovna.edu.rs/kako-najlakse-nauciti-padeze/)
 - [Боске Крагујевац - падежи](https://www.boske.rs/stranice/padezi.html)
 
